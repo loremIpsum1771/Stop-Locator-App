@@ -1,3 +1,5 @@
+//Ceyron Hawthorne
+//December 2014
 #include <iostream>
 #include <string>
 #include <vector>
@@ -163,15 +165,7 @@ void tokenizer(char str[], vector<string>& tokens, const char delim[]) {
 		tok = strtok(NULL, delim);
 	}
 }
-//Code from Prof Lisa Hellerstein (very slightly modified)
-// CS2134
-//
-// This is a bare-bones implementation of the single-source unweighted
-// shortest paths algorithm
-// It does not have nice classes.
 
-// Assumption: The vertices of the graph are labeled from 0 to n - 1,
-// where n is the number of vertices.
 
 const int DEFAULT_VAL = -1;      // must be less than 0
 typedef vector<list<int> > Graph;        // The graph is given in an adjacency list.
@@ -350,8 +344,7 @@ void menu(){
 
 
 	// Get transfer information
-	// Note: If you only used the transfers.txt file, you may
-	// have less stops than if you used both files
+
 	txtFile.close();
 	txtFile.open("transfers.txt");
 	if (!txtFile) { cerr << "File not found"; return; }
