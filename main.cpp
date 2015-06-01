@@ -18,7 +18,7 @@
 #include <functional>
 using namespace std;
 
-//Extra Credit #5
+
 class trainStopData{
 public:
 	trainStopData(const string& stopid, const string& stopname, double stoplat, double stoplong) :
