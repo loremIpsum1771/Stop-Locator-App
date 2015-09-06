@@ -5,7 +5,9 @@
 
 ##Features
 * **Reads in files for NYC MTA train stops and transfers from MTA website** 
+
 * **Computes distances using lattitude and longitudinal coordinates**
+
 * **Implements shortest path algorithm (BFS) to find distances between locations**
 
 
