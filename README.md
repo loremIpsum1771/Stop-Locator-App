@@ -1,5 +1,5 @@
 ###Abstract 
-***This app can be used to help users to navigate the New York City Subway System. The app enables users to find the nearest NYC subway stop to their current location, find optimized ways of transferring to other trains on various routes, find the shortest route between the train stop they are currently at and any other stop, etc... ***
+***This app can be used to help users to navigate the New York City Subway System. The app enables users to find the nearest NYC subway stop to their current location, find optimized ways of transferring to other trains on various routes, find the shortest route between the train stop they are currently at and any other stop, etc...***
 
 ##Features
 * **Reads in files for NYC MTA train stops and transfers from MTA website** 
