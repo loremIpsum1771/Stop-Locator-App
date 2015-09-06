@@ -16,7 +16,7 @@
   7. **Print out the shortest path between two stops**
   8. **Find the closest stop to current location and then print the shortest path between that stop and the next closest stop**
 
-###Example Use Case
+###Example Use Case:
 * **Your current location is: New York City, NY 42 street and park ave**
 * **You choose menu option #8 to find the train stop nearest to your current location**
 
