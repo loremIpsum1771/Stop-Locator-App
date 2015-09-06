@@ -1,5 +1,5 @@
 ###Abstract 
-**This app can be used to help one find the nearest NYC subway stop to their current location as well as an optimized way of transferring to another train**
+***This app can be used to help users to navigate the New York City Subway System. The app enables users to find the nearest NYC subway stop to their current location, find optimized ways of transferring to other trains on various routes, find the shortest route between the train stop they are currently at and any other stop, etc... ***
 
 ##Features
 * **Reads in files for NYC MTA train stops and transfers from MTA website** 
@@ -12,7 +12,7 @@
   3. **Print out all the train stops within a certain distance**
   4. **Print out the available transfers at a specific train stop**
   5. **Print transfers available at all stops**
-  6. **Print outthe shortest path length from the current stop to every other stop**
+  6. **Print out the shortest path length from the current stop to every other stop**
   7. **Print out the shortest path between two stops**
   8. **Find the closest stop to current location and then print the shortest path between that stop and the next closest stop**
 
